@@ -97,7 +97,7 @@ func fetchAllFaculties() []Faculty {
 		allFaculties  []Faculty
 		mu            sync.Mutex
 		wg            sync.WaitGroup
-		pageLimit     = 8 // Limit for concurrent goroutines per page
+		pageLimit     = 5 // Limit for concurrent goroutines per page
 		interestLimit = 5 // Limit for concurrent goroutines per faculty
 	)
 
