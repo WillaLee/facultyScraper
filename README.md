@@ -3,7 +3,7 @@ This project scrapes faculty information from
 	  It collects details including the faculty's name, title, location, research interests, and a link to their profile. 
 	  You can also download the [CSV file](https://github.com/WillaLee/facultyScraper/blob/main/faculties.csv) for easy access and analysis.
 
-> **Note:** There may be some errors in the table because the faculty pages may have slightly different formats. For the most accurate information, please visit the faculty pages directly.
+> **Note:** There may be some errors in the table. For the most accurate information, please visit the faculty pages directly.
       
 # Faculty Directory
 
