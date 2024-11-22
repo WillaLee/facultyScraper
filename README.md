@@ -1,158 +1,173 @@
-
 # Faculty Directory
 
-This is the list of faculties with their details.
-
-| Name           | Position Title    | Locations | Research Interests | Link                               |
-|----------------|-------------------|-----------|---------------------|------------------------------------|
-
-| Nate Derbinsky      | Teaching Professor, Associate Dean of the Global Campus, Associate Dean of Teaching Faculty     | Boston | Artificial intelligence, Machine learning | [Link](https://www.khoury.northeastern.edu/people/nate-derbinsky/) |
-
-| Peter Desnoyers      | Associate Professor     | Boston | The integration of emerging storage technologies such as flash and SMR disk into existing software infrastructures, Algorithms for Flash storage, Shingled Magnetic Recording (SMR) disk drives, Teaching operating systems concepts | [Link](https://www.khoury.northeastern.edu/people/peter-desnoyers/) |
-
-| Cody Dunne      | Associate Professor     | Boston | Information visualization, Visual analytics, Graph and network visualization, Data workflows, Data and analytic provenance, Human-computer interaction (HCI), Personal health informatics | [Link](https://www.khoury.northeastern.edu/people/cody-dunne/) |
-
-| Kathleen Durant      | Assistant Teaching Professor     | Boston | Social network analysis and visualization, Database design, Data science, Personal health informatics | [Link](https://www.khoury.northeastern.edu/people/kathleen-durant/) |
-
-| Jennifer Dy      | Professor     | Boston | Machine learning, Data mining, Statistical pattern recognition, Computer vision, Image processing | [Link](https://www.khoury.northeastern.edu/people/jennifer-dy/) |
-
-| Krista Richmond      | Part-Time Lecturer     | Vancouver | Advanced analytics, Project management, Artificial intelligence | [Link](https://www.khoury.northeastern.edu/people/krista-richmond/) |
-
-| Christoph Riedl      | Professor     | Boston | Collective intelligence, Human-AI teaming, Crowdsourcing, Social influence/peer effects in social networks | [Link](https://www.khoury.northeastern.edu/people/christoph-riedl/) |
-
-| Vance Ricks      | Associate Teaching Professor     | Boston | Friendships & parasocial relationships online, Human-computer interaction, Artificial intelligence | [Link](https://www.khoury.northeastern.edu/people/vance-ricks/) |
-
-| Mirek Riedewald      | Professor     | Boston | Databases, Data mining | [Link](https://www.khoury.northeastern.edu/people/mirek-riedewald/) |
-
-| Shari Robbins      | Part-Time Lecturer     | Boston | Organizational behavior, Culture transformation, Change management | [Link](https://www.khoury.northeastern.edu/people/shari-robbins/) |
-
-| Sami Rollins      | Teaching Professor , Director of Graduate Computing Programs – Oakland     | Oakland | Broadening participation in computing, Computer science education, Mobile and distributed computing, Home energy management | [Link](https://www.khoury.northeastern.edu/people/sami-rollins/) |
-
-| William Robertson      | Associate Professor     | Boston | Systems security, Web security, Mobile security | [Link](https://www.khoury.northeastern.edu/people/william-robertson/) |
-
-| Joseph J. Rushanan      | Part-Time Lecturer     | Boston | Navigation, Applied cryptography, Probabilistic inference for assurance | [Link](https://www.khoury.northeastern.edu/people/joseph-rushanan/) |
-
-| Herman Saksono      | Assistant Professor     | Boston | Human-centered computing, Personal health informatics | [Link](https://www.khoury.northeastern.edu/people/herman-saksono/) |
-
-| Mike Shah      | Part-Time Lecturer     | Boston | Dynamic analysis tools, Software visualization, Software engineering, Computer graphics | [Link](https://www.khoury.northeastern.edu/people/michael-shah/) |
-
-| Prasad Saripalli      | Part-Time Lecturer     | Silicon Valley | Distributed systems, cloud and virtualization, Machine learning for health care, Artificial intelligence for health care | [Link](https://www.khoury.northeastern.edu/people/prasad-saripalli/) |
-
-| Aarti Sathyanarayana      | Assistant Professor     | Boston | Digital health, Wearable devices, Digital phenotyping, Digital biomarker discovery | [Link](https://www.khoury.northeastern.edu/people/aarti-sathyanarayana/) |
-
-| Saiph Savage      | Assistant Professor     | Boston | Artificial intelligence, Human-computer interaction, Data science, Network science, Machine learning | [Link](https://www.khoury.northeastern.edu/people/saiph-savage/) |
-
-| Samuel Scarpino      | Affiliate Professor of the Practice, Director of AI and Life Sciences with Roux     | Boston | Applied mathematics, Bioinformatics, Computational biology, Genetics, Integrative biology, Machine learning, Network modeling, Population dynamics, Statistics | [Link](https://www.khoury.northeastern.edu/people/samuel-scarpino/) |
-
-| Martin Schedlbauer      | Teaching Professor, Director of Online Faculty & Programs     | Boston | Learning analytics, Applied collaborative software development methods, Computer science education> | [Link](https://www.khoury.northeastern.edu/people/martin-schedlbauer/) |
-
-| Walter Schnyder      | Part-Time Lecturer     | Boston | Graph algorithms and algebraic graph theory, Combinatorial algorithms | [Link](https://www.khoury.northeastern.edu/people/walter-schnyder/) |
-
-| Leena Razzaq      | Associate Teaching Professor     | Boston | Intelligent tutoring systems, Artificial intelligence, Human-centered computing | [Link](https://www.khoury.northeastern.edu/people/leena-razzaq/) |
-
-| Dimitri Racordon      | Postdoctoral Research Associate     | Boston | Programming languages, Compiler construction, Type systems, Memory safety, Formal methods | [Link](https://www.khoury.northeastern.edu/people/dimitri-racordon/) |
-
-| Robert Platt      | Associate Professor, Affiliate Faculty with the Department of Electrical and Computer Engineering     | Boston | Perception, planning, and control for robotic manipulation | [Link](https://www.khoury.northeastern.edu/people/robert-platt/) |
-
-| Adam C. Powell      | Part-Time Lecturer     | Boston | Personal health informatics | [Link](https://www.khoury.northeastern.edu/people/adam-c-powell/) |
-
-| Mirjana Prpa      | Assistant Teaching Professor     | Vancouver | Virtual / Augmented Reality, Artificial Intelligence, Machine Learning | [Link](https://www.khoury.northeastern.edu/people/mirjana-prpa/) |
-
-| Ryan M. Rad      | Assistant Teaching Professor     | Vancouver | Machine learning, Computer vision, Generative models, Data science | [Link](https://www.khoury.northeastern.edu/people/ryan-m-rad/) |
-
-| John Rachlin      | Associate Teaching Professor     | Boston | Databases, Artificial intelligence, Bioinformatics, Large-scale computing | [Link](https://www.khoury.northeastern.edu/people/john-rachlin/) |
-
-| Predrag Radivojac      | Professor, Associate Dean of Research     | Boston | Computational biology, Machine learning | [Link](https://www.khoury.northeastern.edu/people/predrag-radivojac/) |
-
-| Rajmohan Rajaraman      | Professor, Associate Dean of Faculty Affairs     | Boston | Approximation algorithms for intractable optimization problems, with a particular interest in network design, Distributed computing in highly dynamic environments, Algorithmic game theory | [Link](https://www.khoury.northeastern.edu/people/rajmohan-rajaraman/) |
-
-| Jose Perea      | Associate Professor     | Boston | Data science , Machine learning , Algorithms and theory  | [Link](https://www.khoury.northeastern.edu/people/jose-perea/) |
-
-| Hari Palani      | Associate Research Scientist     | Portland | Multisensory information access, Spatial informatics, Accessibility, Assistive technology, User research | [Link](https://www.khoury.northeastern.edu/people/hari-palani/) |
-
-| Themis A. Papageorge      | Associate Clinical Professor, Director - Cybersecurity & Information Assurance Employer Relations     | Boston | Risk management | [Link](https://www.khoury.northeastern.edu/people/themis-a-papageorge/) |
-
-| Rupal Patel      | Professor     | Boston | Speech acoustics and analytics, Design and development of assistive communication technology, Speech motor control in neuromotor disorders, Typical speech development | [Link](https://www.khoury.northeastern.edu/people/rupal-patel/) |
-
-| Daniel Patterson      | Assistant Teaching Professor     | Boston | Computer science education logic and specification , Formal methods , Programming languages | [Link](https://www.khoury.northeastern.edu/people/daniel-patterson/) |
-
-| Misha Pavel      | Research Professor     | Boston | Behavioral informatics | [Link](https://www.khoury.northeastern.edu/people/misha-pavel/) |
-
-| Virgil Pavlu      | Associate Teaching Professor     | Boston | Information retrieval, Machine learning, Algorithms | [Link](https://www.khoury.northeastern.edu/people/virgil-pavlu/) |
-
-| Gregory D. Abowd      | Dean of the College of Engineering, Professor,  Electrical and Computer Engineering, Khoury College Courtesy Appointment     | Boston | Human-computer interaction, Ubiquitous computing, Software engineering | [Link](https://www.khoury.northeastern.edu/people/gregory-abowd/) |
-
-| Michal Aibin      | Visiting Associate Teaching Professor     | Vancouver | Cognitive networking, Machine learning, Data analysis | [Link](https://www.khoury.northeastern.edu/people/michal-aibin/) |
-
-| Muhammad Noor E Alam      | Affiliate Associate Professor, Mechanical & Industrial Engineering     | Boston | Applied operations research, Healthcare, Supply chain, Large-scale optimization, Big data analytics | [Link](https://www.khoury.northeastern.edu/people/muhammad-noor-e-alam/) |
-
-| Amal Ahmed      | Professor, Associate Dean of Graduate Programs     | Boston | Programming languages, Correct and secure compilation, Gradual typing, Safe language interoperability | [Link](https://www.khoury.northeastern.edu/people/amal-ahmed/) |
-
-| Uzair Ahmad      | Part-Time Lecturer     | Online | Recommender systems , Online and incremental learning , Reinforcement learning , Data mining | [Link](https://www.khoury.northeastern.edu/people/uzair-ahmad/) |
-
-| Maryam Aliakbarpour      | Postdoctoral Research Associate     | Boston | Statistical learning theory , Differential privacy , Property testing , Sublinear algorithms   | [Link](https://www.khoury.northeastern.edu/people/maryam-aliakbarpour/) |
-
-| Greg Aloupis      | Teaching Professor     | Online | Computational geometry | [Link](https://www.khoury.northeastern.edu/people/greg-aloupis/) |
-
-| Omar Alonso      | Part-Time Lecturer     | Silicon Valley | Information retrieval | [Link](https://www.khoury.northeastern.edu/people/omar-alonso/) |
-
-| Christopher Amato      | Associate Professor     | Boston | Artificial intelligence, Machine learning, Robotics | [Link](https://www.khoury.northeastern.edu/people/chris-amato/) |
-
-| Silvio Amir      | Assistant Professor     | Boston | Natural language processing, Machine learning, Information retrieval, Social media analysis | [Link](https://www.khoury.northeastern.edu/people/silvio-amir/) |
-
-| Ji-Yong Shin      | Assistant Professor     | Boston | Distributed systems, Formal verification, Cloud storage systems, Operating systems | [Link](https://www.khoury.northeastern.edu/people/ji-yong-shin/) |
-
-| Abhi Shelat      | Professor     | Boston | Cryptography, Applied security | [Link](https://www.khoury.northeastern.edu/people/abhi-shelat/) |
-
-| Olin Shivers      | Professor     | Boston | Programming Languages, Systems and Networking, Compilers | [Link](https://www.khoury.northeastern.edu/people/olin-shivers/) |
-
-| Amit Shesh      | Teaching Professor, Assistant Dean of Master’s Programs     | Boston | Computer graphics, Computer science education | [Link](https://www.khoury.northeastern.edu/people/amit-shesh/) |
-
-| Sarita Singh      | Associate Teaching Professor     | Seattle | Education technology , Cybersecurity | [Link](https://www.khoury.northeastern.edu/people/sarita-singh/) |
-
-| Hanumant Singh      | Professor of Electrical and Computer Engineering and Mechanical and Industrial Engineering, Khoury College Courtesy Appointment     | Boston | Robotic sensors, systems, platforms, and algorithms, High resolution optical and acoustic sensing, Underwater vehicles | [Link](https://www.khoury.northeastern.edu/people/hanumant-singh/) |
-
-| Jose Sierra      | Teaching Professor, Associate Director - Cybersecurity and Information Assurance Graduate Program     | Boston | Attribute based access control, IoT communications protection, Technology innovations in cyber threats and cyber defenses | [Link](https://www.khoury.northeastern.edu/people/jose-sierra/) |
-
-| Philip Bogden      | Associate Teaching Professor     | Portland | Data visualization | [Link](https://www.khoury.northeastern.edu/people/philip-bogden/) |
-
-| Tamara Bonaci      | Associate Teaching Professor     | Seattle | Security and privacy of biomedical technologies, Security and privacy issues of neural engineering systems, Quantifying private information from electrophysiological signals | [Link](https://www.khoury.northeastern.edu/people/tamara-bonaci/) |
-
-| Michelle Borkin      | Associate Professor     | Boston | Information and scientific visualization, Human-computer interaction, Medical imaging and radiology, Astrophysics, Visualization, cognition, and perception | [Link](https://www.khoury.northeastern.edu/people/michelle-borkin/) |
-
-| Juancho Buchanan      | Professor of the Practice     | Vancouver | Computer graphics, 3D printing, Practice of software engineering | [Link](https://www.khoury.northeastern.edu/people/juancho-buchanan-2/) |
-
-| Carla E. Brodley      | Professor, Dean of Inclusive Computing, Northeastern University, Founding Executive Director, Center for Inclusive Computing     | Boston | Computing education research, Broadening participation in computing, University administration | [Link](https://www.khoury.northeastern.edu/people/carla-brodley/) |
-
-| David Smith      | Associate Professor     | Boston | Efficient inference for machine learning models with complex latent structure, Modeling natural language structures, such as morphology, syntax, and semantics, Modeling the mutations in texts as they propagate through social networks and in language across space and time, Interactive information retrieval and machine learning for expert users | [Link](https://www.khoury.northeastern.edu/people/david-smith/) |
-
-| Jay Spitulnik      | Associate Teaching Professor, Director of Health Informatics Graduate Program     | Boston | Project management, Organizational behavior, Statistics | [Link](https://www.khoury.northeastern.edu/people/jay-spitulnik/) |
-
-| Lili Su      | Assistant Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment     |  | Distributed machine learning, Security and fault-tolerance, Neural computation, Bio-inspired distributed algorithms, Blockchains, Autonomous cars, Algorithm design | [Link](https://www.khoury.northeastern.edu/people/lili-su/) |
-
-| Frank Tip      | Professor     | Boston | Programming languages, Software engineering | [Link](https://www.khoury.northeastern.edu/people/frank-tip/) |
-
-| Jack Thomas      | Assistant Teaching Professor     | Vancouver | Robotics | [Link](https://www.khoury.northeastern.edu/people/jack-thomas/) |
-
-| Giulia Taurino      | Postdoctoral Research Fellow - Experiential Artificial Intelligence     | Boston | Algorithms and Theory, AI Ethics, AI and the Arts, Natural Language Processing and Information Retrieval | [Link](https://www.khoury.northeastern.edu/people/giulia-taurino/) |
-
-| Devesh Tiwari      | Associate Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment     | Boston | High-performance computing (HPC), Big data analytics, Parallel computing and storage systems, Cloud and scientific computing, Computer systems and architecture | [Link](https://www.khoury.northeastern.edu/people/devesh-tiwari/) |
-
-| Ravi Sundaram      | Professor     | Boston | Networks, Algorithms | [Link](https://www.khoury.northeastern.edu/people/ravi-sundaram/) |
-
-| Scott Valcourt      | Associate Teaching Professor     | Portland | Systems and networking, Software engineering, Programming languages, Network science, Science of learning, Team science | [Link](https://www.khoury.northeastern.edu/people/scott-valcourt/) |
-
-| Oscar Veliz      | Assistant Teaching Professor     | Seattle | Computer science education , Game theory , Numerical analysis | [Link](https://www.khoury.northeastern.edu/people/oscar-veliz/) |
-
-| Alessandro Vespignani      | Sternberg Family Distinguished Professor of Physics     | Boston | Characterization and modeling of complex networks, Modeling the spatial spread of epidemics, Resilience of complex networks, Collective behavior of techno-social systems | [Link](https://www.khoury.northeastern.edu/people/alessandrovespignani/) |
-
-| Ferdinand Vesely      | Assistant Teaching Professor     | Boston | Semantics of programming languages, Functional programming, Program transformation, Interactive theorem provers, Compiler design & implementation and code generation, Operational equivalence of programs, bisimulation & congruence formats | [Link](https://www.khoury.northeastern.edu/people/ferdinand-vesely/) |
-
-| Stavros Tripakis      | Associate Professor     | Boston | Foundations of software and system design, Computer-aided verification and synthesis, Cyber-physical systems | [Link](https://www.khoury.northeastern.edu/people/stavros-tripakis/) |
-
-| Melanie Tory      | Professor of the Practice, Director of Data Visualization     | Portland | Visualization , Human-computer interaction , Human-AI interaction  | [Link](https://www.khoury.northeastern.edu/people/melanie-tory/) |
-
-| Alejandro Toselli      | Associate Research Scientist     | Boston | 
+| Name | Position | Location | Research Interests |
+|------|-----------|-----------|-------------------|
+| [Cliff Forlines](https://www.khoury.northeastern.edu/people/cliff-forlines/) | Associate Research Professor | Portland | Human-computer interaction, Data science, Data visualization, Virtual reality, Augmented reality, Extended reality |
+| [Alexander Gamero-Garrido](https://www.khoury.northeastern.edu/people/alexander-gamero-garrido/) | Postdoctoral Research Associate | Boston | Internet measurement, Data localization, Internet policy, Cybersecurity & privacy, Computer networks |
+| [Larry Finkelstein](https://www.khoury.northeastern.edu/people/larry-finkelstein/) | Professor Emeritus, Dean Emeritus | Boston | Physical science, Health science, Digital arts and business |
+| [Auroop Ganguly](https://www.khoury.northeastern.edu/people/auroop-ganguly/) | Distinguished Professor of Civil and Environmental Engineering, Khoury College Courtesy Appointment | Boston | Water and climate science, Data science, Network science, Infrastructure resilience |
+| [Yun Raymond Fu](https://www.khoury.northeastern.edu/people/raymond-yun-fu/) | Professor | Boston | Machine learning, Computational intelligence, Big data mining, Computer vision, Pattern recognition, Cyber-physical systems |
+| [Ghita Amor-Tijani](https://www.khoury.northeastern.edu/people/ghita-amor-tijani/) | Associate Teaching Professor, Assistant Director of Teaching Faculty - Boston | Boston | Information retrieval, Cross-lingual information retrieval, Data mining, Databases |
+| [Kevin Amorin](https://www.khoury.northeastern.edu/people/kevin-amorin/) | Part-Time Lecturer | Boston | Network security |
+| [Sara Arunagiri](https://www.khoury.northeastern.edu/people/sara-arunagiri/) | Part-Time Lecturer | Online | Data science, Machine learning, Fault tolerance, I/O in high-performance computing systems |
+| [Amin Assareh](https://www.khoury.northeastern.edu/people/amin-assareh/) | Part-Time Lecturer | Boston | Knowledge graphs, Generative AI, Machine learning, Artificial intelligence, Natural language processing, Meta learning, Transfer learning, Semi-supervised learning, Weak supervision |
+| [Kathleen Aubrey](https://www.khoury.northeastern.edu/people/kathleen-aubrey/) | Part-Time Lecturer | Boston | Usability research, User experience, Qualitative research |
+| [Javed Aslam](https://www.khoury.northeastern.edu/people/jay-javed-aslam/) | Chief of Artificial Intelligence, Professor | Boston | Machine learning, Information retrieval, Applications of statistics and information theory |
+| [Keith Bagley](https://www.khoury.northeastern.edu/people/keith-bagley/) | Associate Clinical Professor, Director – Align Boston | Boston | Human Computer Interaction, Internet of Things, Broadening Participation for Underrepresented Groups |
+| [Kenneth Baclawski](https://www.khoury.northeastern.edu/people/kenneth-baclawski/) | Associate Professor Emeritus | Boston | Semantics of data, Web service specification and deployment, Big Data and NoSQL systems, High-performance ontology-based computing, Knowledge bases for biology and medicine, Ontologies for life sciences, situation awareness, and financial services |
+| [Ricardo Baeza-Yates](https://www.khoury.northeastern.edu/people/ricardo-baeza-yates/) | Professor of the Practice | Silicon Valley | Information retrieval, Web search and data mining, Data science and its associated algorithms |
+| [Albert-László Barabási](https://www.khoury.northeastern.edu/people/albert-laszlo-barabasi/) | Robert Gray Dodge Professor of Network Science, University Distinguished Professor | Boston | Network science and its applications, Properties of sub-cellular networks in understanding human disease, Control theory |
+| [Hari Palani](https://www.khoury.northeastern.edu/people/hari-palani/) | Associate Research Scientist | Portland | Multisensory information access, Spatial informatics, Accessibility, Assistive technology, User research |
+| [Rupal Patel](https://www.khoury.northeastern.edu/people/rupal-patel/) | Professor | Boston | Speech acoustics and analytics, Design and development of assistive communication technology, Speech motor control in neuromotor disorders, Typical speech development |
+| [Themis A. Papageorge](https://www.khoury.northeastern.edu/people/themis-a-papageorge/) | Associate Clinical Professor, Director - Cybersecurity & Information Assurance Employer Relations | Boston | Risk management |
+| [Daniel Patterson](https://www.khoury.northeastern.edu/people/daniel-patterson/) | Assistant Teaching Professor | Boston | Computer science education logic and specification , Formal methods , Programming languages |
+| [Virgil Pavlu](https://www.khoury.northeastern.edu/people/virgil-pavlu/) | Associate Teaching Professor | Boston | Information retrieval, Machine learning, Algorithms |
+| [Jose Perea](https://www.khoury.northeastern.edu/people/jose-perea/) | Associate Professor | Boston | Data science , Machine learning , Algorithms and theory  |
+| [Misha Pavel](https://www.khoury.northeastern.edu/people/misha-pavel/) | Research Professor | Boston | Behavioral informatics |
+| [Gregory D. Abowd](https://www.khoury.northeastern.edu/people/gregory-abowd/) | Dean of the College of Engineering, Professor,  Electrical and Computer Engineering, Khoury College Courtesy Appointment | Boston | Human-computer interaction, Ubiquitous computing, Software engineering |
+| [Amal Ahmed](https://www.khoury.northeastern.edu/people/amal-ahmed/) | Professor, Associate Dean of Graduate Programs | Boston | Programming languages, Correct and secure compilation, Gradual typing, Safe language interoperability |
+| [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/) | Part-Time Lecturer | Online | Recommender systems , Online and incremental learning , Reinforcement learning , Data mining |
+| [Michal Aibin](https://www.khoury.northeastern.edu/people/michal-aibin/) | Visiting Associate Teaching Professor | Vancouver | Cognitive networking, Machine learning, Data analysis |
+| [Muhammad Noor E Alam](https://www.khoury.northeastern.edu/people/muhammad-noor-e-alam/) | Affiliate Associate Professor, Mechanical & Industrial Engineering | Boston | Applied operations research, Healthcare, Supply chain, Large-scale optimization, Big data analytics |
+| [Maryam Aliakbarpour](https://www.khoury.northeastern.edu/people/maryam-aliakbarpour/) | Postdoctoral Research Associate | Boston | Statistical learning theory , Differential privacy , Property testing , Sublinear algorithms   |
+| [Omar Alonso](https://www.khoury.northeastern.edu/people/omar-alonso/) | Part-Time Lecturer | Silicon Valley | Information retrieval |
+| [Greg Aloupis](https://www.khoury.northeastern.edu/people/greg-aloupis/) | Teaching Professor | Online | Computational geometry |
+| [Silvio Amir](https://www.khoury.northeastern.edu/people/silvio-amir/) | Assistant Professor | Boston | Natural language processing, Machine learning, Information retrieval, Social media analysis |
+| [Christopher Amato](https://www.khoury.northeastern.edu/people/chris-amato/) | Associate Professor | Boston | Artificial intelligence, Machine learning, Robotics |
+| [Agnes H. Chan](https://www.khoury.northeastern.edu/people/agnes-chan/) | Professor Emeritus | Boston | Applied cryptography, Secure communication |
+| [Kenneth Church](https://www.khoury.northeastern.edu/people/kenneth-church/) | Professor of the Practice | Silicon Valley | Natural language processing and information retrieval, Artificial intelligence, Machine learning |
+| [William D. Clinger](https://www.khoury.northeastern.edu/people/william-d-clinger/) | Associate Professor Emeritus | Boston | Functional and higher-order programming languages, Connecting mathematically sophisticated theories of syntax and semantics to economically important details of computer hardware and software |
+| [David Choffnes](https://www.khoury.northeastern.edu/people/david-choffnes/) | Associate Professor, Executive Director - Cybersecurity and Privacy Institute | Boston | Distributed systems, Networking, Privacy and security, Measuring deployed Internet-scale systems (including mobile and IoT), Designing solutions to address problems with reliability, efficiency, and security |
+| [Yvonne Coady](https://www.khoury.northeastern.edu/people/yvonne-coady/) | Visiting Professor | Vancouver | Scalable system infrastructures, Aspect-oriented software development, Distributed virtualization |
+| [Philip Bogden](https://www.khoury.northeastern.edu/people/philip-bogden/) | Associate Teaching Professor | Portland | Data visualization |
+| [Tamara Bonaci](https://www.khoury.northeastern.edu/people/tamara-bonaci/) | Associate Teaching Professor | Seattle | Security and privacy of biomedical technologies, Security and privacy issues of neural engineering systems, Quantifying private information from electrophysiological signals |
+| [Michelle Borkin](https://www.khoury.northeastern.edu/people/michelle-borkin/) | Associate Professor | Boston | Information and scientific visualization, Human-computer interaction, Medical imaging and radiology, Astrophysics, Visualization, cognition, and perception |
+| [Juancho Buchanan](https://www.khoury.northeastern.edu/people/juancho-buchanan-2/) | Professor of the Practice | Vancouver | Computer graphics, 3D printing, Practice of software engineering |
+| [Carla E. Brodley](https://www.khoury.northeastern.edu/people/carla-brodley/) | Professor, Dean of Inclusive Computing, Northeastern University, Founding Executive Director, Center for Inclusive Computing | Boston | Computing education research, Broadening participation in computing, University administration |
+| [Jonathan Bell](https://www.khoury.northeastern.edu/people/jonathan-bell/) | Associate Professor | Boston | Software Engineering, Program Analysis, Automated approaches to help developers write better software |
+| [Kylie Ariel Bemis](https://www.khoury.northeastern.edu/people/kylie-ariel-bemis/) | Assistant Teaching Professor | Boston | Statistical computing environments, Methods for complex data |
+| [Enrico Bertini](https://www.khoury.northeastern.edu/people/enrico-bertini/) | Associate Professor | Boston | Visualization, Machine learning |
+| [Rasika Bhalerao](https://www.khoury.northeastern.edu/people/rasika-bhalerao/) | Assistant Teaching Professor | Silicon Valley, Oakland | Ethical computing, Natural language processing and information retrieval, Security and privacy |
+| [Anurag Bhardwaj](https://www.khoury.northeastern.edu/people/anurag-bhardwaj/) | Part-Time Lecturer | Silicon Valley | Machine learning, Computer vision, Algorithms |
+| [David Bau](https://www.khoury.northeastern.edu/people/david-bau/) | Assistant Professor | Boston | Machine learning, Computer vision, Artificial intelligence, Natural language processing, Human-computer interaction |
+| [Timothy W. Bickmore](https://www.khoury.northeastern.edu/people/timothy-bickmore/) | Professor | Boston | Human-computer interaction, Dialogue systems, Intelligent virtual agents, Avatars, Personal health informatics, Human-robot interaction |
+| [Eli Barzilay](https://www.khoury.northeastern.edu/people/eli-barzilay/) | Part-Time Lecturer | Boston | Programming languages, Computer music, Applied logic |
+| [Eric Gerber](https://www.khoury.northeastern.edu/people/eric-gerber/) | Assistant Teaching Professor | Boston | Sports analytics, Bayesian hierarchical models, Predictive modeling |
+| [Wolfgang Gatterbauer](https://www.khoury.northeastern.edu/people/wolfgang-gatterbauer/) | Associate Professor | Boston | Data management, Information management, Developing scalable approaches to perform inference over uncertain and networked data |
+| [John Alexis Guerra Gomez](https://www.khoury.northeastern.edu/people/john-alexis-guerra-gomez/) | Associate Teaching Professor | Oakland, Silicon Valley | Visual analytics, Accessibility, Big Data, Human-computer interaction, Web development |
+| [Matthew Goodwin](https://www.khoury.northeastern.edu/people/matthew-goodwin/) | Professor | Boston | Ambulatory psychophysiology, Autism spectrum disorder, Digital signal processing, Machine learning, Personal health informatics |
+| [Arjun Guha](https://www.khoury.northeastern.edu/people/arjun-guha/) | Associate Professor | Boston | Programming Languages |
+| [Philip Gust](https://www.khoury.northeastern.edu/people/philip-gust/) | Visiting Clinical Instructor | Silicon Valley | Human-computer interaction, Long-term preservation and access to born-digital content |
+| [Brent Hailpern](https://www.khoury.northeastern.edu/people/brent-hailpern/) | Part-Time Lecturer | Silicon Valley | Programming languages, Software engineering |
+| [Lama Hamandi](https://www.khoury.northeastern.edu/people/lama-hamandi/) | Associate Teaching Professor | Silicon Valley, Oakland | Systems & networking |
+| [Paul Hand](https://www.khoury.northeastern.edu/people/paul-hand/) | Associate Professor | Boston | Theory and algorithms for machine learning and artificial intelligence |
+| [Casper Harteveld](https://www.khoury.northeastern.edu/people/casper-harteveld/) | Professor of Game Design, Khoury College Courtesy Appointment | Boston | Decision-making, Game analytics, design, and user research, Learning, Sustainability, Systems Thinking |
+| [Benjamin Hescott](https://www.khoury.northeastern.edu/people/benjamin-hescott/) | Teaching Professor, Senior Associate Dean of Academic Programs and Student Experience | Boston | Computational complexity, Approximation algorithms, Computational biology |
+| [Woodrow Hartzog](https://www.khoury.northeastern.edu/people/woodrow-hartzog/) | Professor, Khoury College Courtesy Appointment | Boston | Human-computer interaction, Privacy and surveillance, Robotics |
+| [Ally Hoffman](https://www.khoury.northeastern.edu/people/ally-hoffman/) | Part-Time Lecturer | Online | Information security governance, risk, and compliance  |
+| [Alden Jackson](https://www.khoury.northeastern.edu/people/alden-jackson/) | Associate Clinical Professor | Boston | Software-defined network architecture, Network security |
+| [Steve Holtzen](https://www.khoury.northeastern.edu/people/steve-holtzen/) | Assistant Professor | Boston | Artificial intelligence, Programming languages, Formal methods |
+| [Richard Hoshino](https://www.khoury.northeastern.edu/people/richard-hoshino/) | Teaching Professor | Vancouver | Scheduling optimization, Operations research, Mathematics pedagogy |
+| [Megan Hofmann](https://www.khoury.northeastern.edu/people/megan-hofmann/) | Assistant Professor | Boston | Human-computer interaction, Personal health informatics, Accessibility, Digital fabrication |
+| [Stratis Ioannidis](https://www.khoury.northeastern.edu/people/stratis-ioannidis/) | Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment | Boston | Big data, Machine learning, Privacy, Distributed systems |
+| [Stephen Intille](https://www.khoury.northeastern.edu/people/stephen-intille/) | Professor | Boston | Development and validation of innovative personal health informatics systems, Measuring and motivating behavioral changes through interactive, mobile sensing, The intersection of machine learning, behavioral theory, and behavioral measurement methods with computing technology |
+| [Alan Jamieson](https://www.khoury.northeastern.edu/people/alan-jamieson/) | Teaching Professor, Director of Computing Programs - Roux Institute | Portland | K-12 CS Integration, Recruitment and Retention of Historically Excluded Groups in CS, Algorithms and Theory |
+| [Lindsay Jamieson](https://www.khoury.northeastern.edu/people/lindsay-jamieson/) | Teaching Professor | Portland | K-12 computer science education, Algorithms & theory |
+| [Shantanu Jain](https://www.khoury.northeastern.edu/people/jain-shantanu/) | Associate Research Scientist | Boston | Machine learning, Artificial intelligence, Data science, Statistics |
+| [Andrew Jelani](https://www.khoury.northeastern.edu/people/andrew-jelani/) | Part-Time Lecturer | Seattle | Information retrieval, Machine learning, Algorithms |
+| [Huaizu Jiang](https://www.khoury.northeastern.edu/people/huaizu-jiang/) | Assistant Professor | Boston | Computer vision, Computational photography, Machine learning |
+| [Craig Johnson](https://www.khoury.northeastern.edu/people/craig-johnson/) | Part-Time Lecturer | Boston | Business application of machine learning and decision support in healthcare |
+| [Holly Jimison](https://www.khoury.northeastern.edu/people/holly-jimison/) | Research Professor | Boston | Personal health informatics, Pattern recognition, Decision support, Consumer health informatics |
+| [Austin Jorgensen](https://www.khoury.northeastern.edu/people/austin-jorgensen/) | Part-Time Lecturer | Seattle | Web development |
+| [David Kaeli](https://www.khoury.northeastern.edu/people/david-kaeli/) | Distinguished Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment | Boston | Computer architecture, Heterogeneous computing, Performance analysis, Embedded systems, Security and information assurance, Back-end compilers, Profile-guided optimization, Hardware reliability and recovery, Image databases, Software engineering, Workload characterization, General purpose graphics processing units (GPGPU) |
+| [Justin Kennedy](https://www.khoury.northeastern.edu/people/justin-kennedy/) | Part-Time Lecturer | Online | Software engineering algorithms, Programming languages |
+| [Engin Kirda](https://www.khoury.northeastern.edu/people/engin-kirda/) | Professor | Boston | Systems, software, and network security, Web security, Binary analysis, Malware detection |
+| [Rébecca Kleinberger](https://www.khoury.northeastern.edu/people/rebecca-kleinberger/) | Assistant Professor | Boston | Animal-computer interaction , Technological enrichment for zoo animals , Human-computer interaction , Voice technology , Assistive technology , Music technology  |
+| [Ghanahshyam Kshirsagar](https://www.khoury.northeastern.edu/people/ghanahshyam-kshirsagar/) | Postdoctoral Research Associate | Portland | Brain Computer Interface, Machine Learning |
+| [Wallace Lages](https://www.khoury.northeastern.edu/people/wallace-lages/) | Assistant Professor | Boston | user experience of augmented and virtual reality applications |
+| [David Lazer](https://www.khoury.northeastern.edu/people/david-lazer/) | Distinguished Professor | Boston | Computational social science, Network science, Collective cognition, Political networks and deliberative democracy, Social media and social influence in networks, Predictive modeling |
+| [Ada Lerner](https://www.khoury.northeastern.edu/people/ada-lerner/) | Assistant Professor, Director of BS in Cybersecurity Program | Boston | Human-computer interaction, Security and privacy |
+| [Jeongkyu Lee](https://www.khoury.northeastern.edu/people/jeongkyu-lee/) | Teaching Professor | Silicon Valley | Big data , Machine learning , Robotics , Computer vision , Database systems , Data visualization , Deep learning  |
+| [Benjamin Lerner](https://www.khoury.northeastern.edu/people/benjamin-lerner/) | Associate Teaching Professor | Boston | Programming languages, Computer science education |
+| [Wei-Kai Lin](https://www.khoury.northeastern.edu/people/wei-kai-lin/) | Postdoctoral Research Associate | Boston | Security and privacy, Algorithms and theory, Cryptography |
+| [Xue &#8220;Shelly&#8221; Lin](https://www.khoury.northeastern.edu/people/xue-shelly-lin/) | Associate Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment | Boston | Adversarial machine learning, Deep learning acceleration and hardware implementation, Cyber-physical systems |
+| [Karl Lieberherr](https://www.khoury.northeastern.edu/people/karl-lieberherr/) | Professor | Boston | Modularity in software development, Test-driven development for relational queries using neural networks, Socio-technical systems for problem solving in STEM areas involving competition and collaboration |
+| [Blair MacIntyre](https://www.khoury.northeastern.edu/people/blair-macintyre/) | Professor | Boston | Human-computer interaction, Computer graphics, Augmented and virtual reality, Privacy |
+| [David Madigan](https://www.khoury.northeastern.edu/people/david-madigan/) | Professor, Provost and Senior Vice President of Academic Affairs | Boston | Statistics, Pharmacovigilance, Text mining, Monte Carlo methods, Probabilistic graphical models |
+| [Meica Magnani](https://www.khoury.northeastern.edu/people/meica-magnani/) | Assistant Teaching Professor | Boston | Ethics of persuasive technologies and design, Autonomy |
+| [Marie A. Maloney](https://www.khoury.northeastern.edu/people/marie-a-maloney/) | Senior Lecturer, Associate Program Director - Health Informatics | Boston | Healthcare informatics, Optimizing the quality of patient care through the integration of payer and provider processes |
+| [Panagiotis (Pete) Manolios](https://www.khoury.northeastern.edu/people/panagiotis-manolios/) | Professor | Boston | Computer-aided modeling, verification, analysis, and synthesis of systems, Formal methods, Distributed computing, Programming languages, Software engineering, Aerospace |
+| [Omid Mirzaei](https://www.khoury.northeastern.edu/people/omid-mirzaei/) | Postdoctoral Research Associate | Boston | Artificial intelligence, Machine learning, Security and privacy, Systems and networks |
+| [Stacy C. Marsella](https://www.khoury.northeastern.edu/people/stacy-c-marsella/) | Professor | Boston | Human behavior modeling, particularly health applications |
+| [Mardiros Merdinian](https://www.khoury.northeastern.edu/people/mardiros-merdinoglu/) | Part-Time Lecturer | Boston | Information security, Information assurance |
+| [Mark Miller](https://www.khoury.northeastern.edu/people/mark-miller/) | Part-Time Lecturer - Align Program | Silicon Valley, Oakland | Computer science education |
+| [Ennio Mingolla](https://www.khoury.northeastern.edu/people/ennio-mingolla/) | Professor, Department of Communication Sciences and Disorders, Khoury College Courtesy Appointment | Boston | Development and empirical testing of neural network models of visual perception, Segmentation, grouping, and contour formation processes of early and middle vision in primates, Transitioning neural network models of visual perception to technological applications |
+| [Sakib Miazi](https://www.khoury.northeastern.edu/people/sakib-miazi/) | Assistant Teaching Professor | Boston | Usable security and privacy, Computing education, Human–computer interaction, Security and privacy |
+| [Bruce Maxwell](https://www.khoury.northeastern.edu/people/bruce-maxwell/) | Teaching Professor, Assistant Director Computing Programs - Seattle | Seattle | Computer vision, Machine learning, Robotics, Data science |
+| [Aditya Mishra](https://www.khoury.northeastern.edu/people/aditya-mishra/) | Associate Teaching Professor | Seattle | Green computing, Smart grids, Distributed systems and networking, Sustainability |
+| [Varun Mishra](https://www.khoury.northeastern.edu/people/varun-mishra/) | Assistant Professor | Boston | Ubiquitous computing for mental and behavioral health, mHealth sensing and intervention, Digital phenotyping, Personal health informatics |
+| [Alan Mislove](https://www.khoury.northeastern.edu/people/alan-mislove/) | Professor, Senior Associate Dean for Academic Affairs | Boston | Network measurement, Networking, Privacy and security issues associated with online social networks |
+| [Smruthi Mukund](https://www.khoury.northeastern.edu/people/smruthi-mukund/) | Part-Time Lecturer | Silicon Valley | Data science , Machine learning , Natural language processing |
+| [Tony Mullen](https://www.khoury.northeastern.edu/people/tony-mullen/) | Teaching Professor | Seattle | Statistical natural language processing, Computer-assisted language learning, Computer science pedagogy |
+| [Aanchan Mohan](https://www.khoury.northeastern.edu/people/aanchan-mohan/) | Assistant Teaching Professor | Vancouver | Machine learning, Natural language processing, Speech recognition |
+| [Adam C. Powell](https://www.khoury.northeastern.edu/people/adam-c-powell/) | Part-Time Lecturer | Boston | Personal health informatics |
+| [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) | Associate Professor, Affiliate Faculty with the Department of Electrical and Computer Engineering | Boston | Perception, planning, and control for robotic manipulation |
+| [Mirjana Prpa](https://www.khoury.northeastern.edu/people/mirjana-prpa/) | Assistant Teaching Professor | Vancouver | Virtual / Augmented Reality, Artificial Intelligence, Machine Learning |
+| [John Rachlin](https://www.khoury.northeastern.edu/people/john-rachlin/) | Associate Teaching Professor | Boston | Databases, Artificial intelligence, Bioinformatics, Large-scale computing |
+| [Dimitri Racordon](https://www.khoury.northeastern.edu/people/dimitri-racordon/) | Postdoctoral Research Associate | Boston | Programming languages, Compiler construction, Type systems, Memory safety, Formal methods |
+| [Ryan M. Rad](https://www.khoury.northeastern.edu/people/ryan-m-rad/) | Assistant Teaching Professor | Vancouver | Machine learning, Computer vision, Generative models, Data science |
+| [Predrag Radivojac](https://www.khoury.northeastern.edu/people/predrag-radivojac/) | Professor, Associate Dean of Research | Boston | Computational biology, Machine learning |
+| [Rajmohan Rajaraman](https://www.khoury.northeastern.edu/people/rajmohan-rajaraman/) | Professor, Associate Dean of Faculty Affairs | Boston | Approximation algorithms for intractable optimization problems, with a particular interest in network design, Distributed computing in highly dynamic environments, Algorithmic game theory |
+| [Leena Razzaq](https://www.khoury.northeastern.edu/people/leena-razzaq/) | Associate Teaching Professor | Boston | Intelligent tutoring systems, Artificial intelligence, Human-centered computing |
+| [Krista Richmond](https://www.khoury.northeastern.edu/people/krista-richmond/) | Part-Time Lecturer | Vancouver | Advanced analytics, Project management, Artificial intelligence |
+| [Christoph Riedl](https://www.khoury.northeastern.edu/people/christoph-riedl/) | Professor | Boston | Collective intelligence, Human-AI teaming, Crowdsourcing, Social influence/peer effects in social networks |
+| [Vance Ricks](https://www.khoury.northeastern.edu/people/vance-ricks/) | Associate Teaching Professor | Boston | Friendships & parasocial relationships online, Human-computer interaction, Artificial intelligence |
+| [Mirek Riedewald](https://www.khoury.northeastern.edu/people/mirek-riedewald/) | Professor | Boston | Databases, Data mining |
+| [Shari Robbins](https://www.khoury.northeastern.edu/people/shari-robbins/) | Part-Time Lecturer | Boston | Organizational behavior, Culture transformation, Change management |
+| [William Robertson](https://www.khoury.northeastern.edu/people/william-robertson/) | Associate Professor | Boston | Systems security, Web security, Mobile security |
+| [Sami Rollins](https://www.khoury.northeastern.edu/people/sami-rollins/) | Teaching Professor , Director of Graduate Computing Programs – Oakland | Oakland | Broadening participation in computing, Computer science education, Mobile and distributed computing, Home energy management |
+| [Joseph J. Rushanan](https://www.khoury.northeastern.edu/people/joseph-rushanan/) | Part-Time Lecturer | Boston | Navigation, Applied cryptography, Probabilistic inference for assurance |
+| [Herman Saksono](https://www.khoury.northeastern.edu/people/herman-saksono/) | Assistant Professor | Boston | Human-centered computing, Personal health informatics |
+| [Mike Shah](https://www.khoury.northeastern.edu/people/michael-shah/) | Part-Time Lecturer | Boston | Dynamic analysis tools, Software visualization, Software engineering, Computer graphics |
+| [Walter Schnyder](https://www.khoury.northeastern.edu/people/walter-schnyder/) | Part-Time Lecturer | Boston | Graph algorithms and algebraic graph theory, Combinatorial algorithms |
+| [Prasad Saripalli](https://www.khoury.northeastern.edu/people/prasad-saripalli/) | Part-Time Lecturer | Silicon Valley | Distributed systems, cloud and virtualization, Machine learning for health care, Artificial intelligence for health care |
+| [Martin Schedlbauer](https://www.khoury.northeastern.edu/people/martin-schedlbauer/) | Teaching Professor, Director of Online Faculty & Programs | Boston | Learning analytics, Applied collaborative software development methods, Computer science education> |
+| [Samuel Scarpino](https://www.khoury.northeastern.edu/people/samuel-scarpino/) | Affiliate Professor of the Practice, Director of AI and Life Sciences with Roux | Boston | Applied mathematics, Bioinformatics, Computational biology, Genetics, Integrative biology, Machine learning, Network modeling, Population dynamics, Statistics |
+| [Saiph Savage](https://www.khoury.northeastern.edu/people/saiph-savage/) | Assistant Professor | Boston | Artificial intelligence, Human-computer interaction, Data science, Network science, Machine learning |
+| [Aarti Sathyanarayana](https://www.khoury.northeastern.edu/people/aarti-sathyanarayana/) | Assistant Professor | Boston | Digital health, Wearable devices, Digital phenotyping, Digital biomarker discovery |
+| [Abhi Shelat](https://www.khoury.northeastern.edu/people/abhi-shelat/) | Professor | Boston | Cryptography, Applied security |
+| [Amit Shesh](https://www.khoury.northeastern.edu/people/amit-shesh/) | Teaching Professor, Assistant Dean of Master’s Programs | Boston | Computer graphics, Computer science education |
+| [Ji-Yong Shin](https://www.khoury.northeastern.edu/people/ji-yong-shin/) | Assistant Professor | Boston | Distributed systems, Formal verification, Cloud storage systems, Operating systems |
+| [Sarita Singh](https://www.khoury.northeastern.edu/people/sarita-singh/) | Associate Teaching Professor | Seattle | Education technology , Cybersecurity |
+| [Hanumant Singh](https://www.khoury.northeastern.edu/people/hanumant-singh/) | Professor of Electrical and Computer Engineering and Mechanical and Industrial Engineering, Khoury College Courtesy Appointment | Boston | Robotic sensors, systems, platforms, and algorithms, High resolution optical and acoustic sensing, Underwater vehicles |
+| [Olin Shivers](https://www.khoury.northeastern.edu/people/olin-shivers/) | Professor | Boston | Programming Languages, Systems and Networking, Compilers |
+| [Jose Sierra](https://www.khoury.northeastern.edu/people/jose-sierra/) | Teaching Professor, Associate Director - Cybersecurity and Information Assurance Graduate Program | Boston | Attribute based access control, IoT communications protection, Technology innovations in cyber threats and cyber defenses |
+| [Jonathan Mwaura](https://www.khoury.northeastern.edu/people/jonathan-mwaura/) | Associate Teaching Professor | Portland | Evolutionary computation, Multimodal optimization, Robotics |
+| [Elizabeth Mynatt](https://www.khoury.northeastern.edu/people/elizabeth-mynatt/) | Dean of Khoury College of Computer Sciences | Boston | Health Informatics, Human Computer Interaction, Ubiquitous Computing |
+| [Arasu Narayan](https://www.khoury.northeastern.edu/people/arasu-narayan/) | Part-Time Lecturer | Seattle | Natural language processing |
+| [Mario Nascimento](https://www.khoury.northeastern.edu/people/mario-nascimento/) | Professor of the Practice, Director of Pacific Northwest Research | Vancouver | Spatiotemporal databases |
+| [Huy Lê Nguyen](https://www.khoury.northeastern.edu/people/huy-le-nguyen/) | Associate Professor | Boston | Algorithmic techniques for massive data sets, Optimization, Machine learning |
+| [Cristina Nita-Rotaru](https://www.khoury.northeastern.edu/people/cristina-nita-rotaru/) | Professor | Boston | Distributed systems and network security, Insider-resilient systems, Analytics for security and fault-tolerance, Automated testing and verification |
+| [Guevara Noubir](https://www.khoury.northeastern.edu/people/guevara-noubir/) | Professor, Executive Director of Cybersecurity Programs | Boston | Theory and practice of privacy and security, Robustness of networked systems |
+| [Kaan Onarlioglu](https://www.khoury.northeastern.edu/people/kaan-onarlioglu/) | Part-Time Lecturer | Boston | Operating systems security, Human-computer interaction, Security and privacy, Systems and networking |
+| [Alina Oprea](https://www.khoury.northeastern.edu/people/alina-oprea/) | Professor | Boston | Security analytics, Cloud security, Network security, Applied cryptography |
+| [Emanuele Viola](https://www.khoury.northeastern.edu/people/emanuele-viola/) | Professor | Boston | Theoretical Computer Science |
+| [Matias Volonte](https://www.khoury.northeastern.edu/people/matias-volonte/) | Postdoctoral Research Associate | Boston | Human-computer interaction, Dialogue systems, Intelligent virtual agents, Avatars, Personal health informatics, Virtual reality |
+| [Jan Vitek](https://www.khoury.northeastern.edu/people/jan-vitek/) | Professor | Boston | Programming languages, Compilers, Program analysis, Memory management, Virtual machine, Type systems |
+| [Olga Vitek](https://www.khoury.northeastern.edu/people/olga-vitek/) | Raymond Bradford Bradstreet Professor, Director, Barnett Institute for Chemical and Biological Analysis | Boston | Statistical and computational methods for systems-wide molecular investigations of biological organisms |
+| [Thomas Wahl](https://www.khoury.northeastern.edu/people/thomas-wahl/) | Affiliate Associate Professor | Boston | Reliability of complex and mission-critical computing systems |
+| [Byron Wallace](https://www.khoury.northeastern.edu/people/byron-wallace/) | Sy and Laurie Sternberg Interdisciplinary Associate Professor, Associate Dean of Graduate Programs, Director - BS in Data Science Program | Boston | Data mining, Machine learning, Natural language processing |
+| [Yanzhi Wang](https://www.khoury.northeastern.edu/people/yanzhi-wang/) | Associate Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment | Boston | Energy-efficient and high-performance implementation of deep learning systems, Model compression of deep neural networks (DNNs), Neuromorphic computing and non-von Neumann computing paradigms, Cybersecurity in deep learning systems |
+| [Dakuo Wang](https://www.khoury.northeastern.edu/people/dakuo-wang/) | Associate Professor | Boston | Human-computer interaction, Human-AI collaboration, Natural language processing, Health informatics, Data science, Computer-supported cooperative work |
+| [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/) | Assistant Professor | Boston | Deep learning, Equivariant neural networks, Representation theory, Algebraic geometry |
+| [Mitchell Wand](https://www.khoury.northeastern.edu/people/mitchell-wand/) | Part-Time Lecturer, Professor Emeritus | Boston | Probabilistic programming languages, Binding-safe programming |
+| [Ravi Sundaram](https://www.khoury.northeastern.edu/people/ravi-sundaram/) | Professor | Boston | Networks, Algorithms |
+| [Giulia Taurino](https://www.khoury.northeastern.edu/people/giulia-taurino/) | Postdoctoral Research Fellow - Experiential Artificial Intelligence | Boston | Algorithms and Theory, AI Ethics, AI and the Arts, Natural Language Processing and Information Retrieval |
+| [Jack Thomas](https://www.khoury.northeastern.edu/people/jack-thomas/) | Assistant Teaching Professor | Vancouver | Robotics |
+| [Devesh Tiwari](https://www.khoury.northeastern.edu/people/devesh-tiwari/) | Associate Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment | Boston | High-performance computing (HPC), Big data analytics, Parallel computing and storage systems, Cloud and scientific computing, Computer systems and architecture |
+| [Frank Tip](https://www.khoury.northeastern.edu/people/frank-tip/) | Professor | Boston | Programming languages, Software engineering |
+| [Melanie Tory](https://www.khoury.northeastern.edu/people/melanie-tory/) | Professor of the Practice, Director of Data Visualization | Portland | Visualization , Human-computer interaction , Human-AI interaction  |
+| [Alejandro Toselli](https://www.khoury.northeastern.edu/people/alejandro-toselli/) | Associate Research Scientist | Boston | 
 
 
 
@@ -164,270 +179,43 @@ Designing neural models for document analysis and recognition
 
 
 
- | [Link](https://www.khoury.northeastern.edu/people/alejandro-toselli/) |
-
-| Mohammad Toutiaee      | Assistant Teaching Professor     | Silicon Valley | Data science, Machine learning, Artificial intelligence | [Link](https://www.khoury.northeastern.edu/people/mohammad-toutiaee/) |
-
-| Catherine Turner      | Part-Time Lecturer     | Boston | Nursing/nursing informatics, Healthcare informatics, Electronic health records | [Link](https://www.khoury.northeastern.edu/people/catherine-turner/) |
-
-| Viney Ugave      | Part-Time Lecturer     | Arlington | Software engineering, Mobile computing | [Link](https://www.khoury.northeastern.edu/people/viney-ugave/) |
-
-| Jonathan Ullman      | Associate Professor     | Boston | Privacy, Machine learning and statistics, Cryptography, Algorithms | [Link](https://www.khoury.northeastern.edu/people/jonathan-ullman/) |
-
-| Caglar Yildirim      | Associate Teaching Professor     | Boston | Human-computer interaction, Applied machine learning, Data visualization, Games | [Link](https://www.khoury.northeastern.edu/people/caglar-yildirim/) |
-
-| Daniel Wichs      | Professor     | Boston | Modern cryptography, Information security | [Link](https://www.khoury.northeastern.edu/people/daniel-wichs/) |
-
-| John Wilder      | Part-Time Lecturer     | Vancouver | Human and computer vision , Cognitive neuroscience , Neural networks  | [Link](https://www.khoury.northeastern.edu/people/john-wilder/) |
-
-| Christo Wilson      | Professor, Associate Dean of Undergraduate Programs     | Boston | Algorithm auditing, specifically using controlled experiments to understand whether black-box algorithmic systems are unfair or discriminatory, Understanding online tracking and developing techniques to improve online privacy, Measuring and improving public key infrastructures like SSL/TLS and DNSSEC | [Link](https://www.khoury.northeastern.edu/people/christo-wilson/) |
-
-| Jan Vitek      | Professor     | Boston | Programming languages, Compilers, Program analysis, Memory management, Virtual machine, Type systems | [Link](https://www.khoury.northeastern.edu/people/jan-vitek/) |
-
-| Emanuele Viola      | Professor     | Boston | Theoretical Computer Science | [Link](https://www.khoury.northeastern.edu/people/emanuele-viola/) |
-
-| Olga Vitek      | Raymond Bradford Bradstreet Professor, Director, Barnett Institute for Chemical and Biological Analysis     | Boston | Statistical and computational methods for systems-wide molecular investigations of biological organisms | [Link](https://www.khoury.northeastern.edu/people/olga-vitek/) |
-
-| Matias Volonte      | Postdoctoral Research Associate     | Boston | Human-computer interaction, Dialogue systems, Intelligent virtual agents, Avatars, Personal health informatics, Virtual reality | [Link](https://www.khoury.northeastern.edu/people/matias-volonte/) |
-
-| Byron Wallace      | Sy and Laurie Sternberg Interdisciplinary Associate Professor, Associate Dean of Graduate Programs, Director - BS in Data Science Program     | Boston | Data mining, Machine learning, Natural language processing | [Link](https://www.khoury.northeastern.edu/people/byron-wallace/) |
-
-| Thomas Wahl      | Affiliate Associate Professor     | Boston | Reliability of complex and mission-critical computing systems | [Link](https://www.khoury.northeastern.edu/people/thomas-wahl/) |
-
-| Mitchell Wand      | Part-Time Lecturer, Professor Emeritus     | Boston | Probabilistic programming languages, Binding-safe programming | [Link](https://www.khoury.northeastern.edu/people/mitchell-wand/) |
-
-| Robin Walters      | Assistant Professor     | Boston | Deep learning, Equivariant neural networks, Representation theory, Algebraic geometry | [Link](https://www.khoury.northeastern.edu/people/robin-walters/) |
-
-| Dakuo Wang      | Associate Professor     | Boston | Human-computer interaction, Human-AI collaboration, Natural language processing, Health informatics, Data science, Computer-supported cooperative work | [Link](https://www.khoury.northeastern.edu/people/dakuo-wang/) |
-
-| Yanzhi Wang      | Associate Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment     | Boston | Energy-efficient and high-performance implementation of deep learning systems, Model compression of deep neural networks (DNNs), Neuromorphic computing and non-von Neumann computing paradigms, Cybersecurity in deep learning systems | [Link](https://www.khoury.northeastern.edu/people/yanzhi-wang/) |
-
-| Rose Yu      | Assistant Professor, University of California, San Diego, Khoury College Courtesy Appointment     |  | Machine Learning, Spatiotemporal Modeling | [Link](https://www.khoury.northeastern.edu/people/rose-yu/) |
-
-| Shuo Zhang      | Assistant Professor     | Boston | Platform design, Algorithmic fairness, Online job search | [Link](https://www.khoury.northeastern.edu/people/shuo-zhang/) |
-
-| Hongyang Zhang      | Assistant Professor     | Boston | Machine learning, Design and analysis of algorithms, Learning theory, Data, data augmentation, networks, Language modeling | [Link](https://www.khoury.northeastern.edu/people/hongyang-zhang/) |
-
-| Alden Jackson      | Associate Clinical Professor     | Boston | Software-defined network architecture, Network security | [Link](https://www.khoury.northeastern.edu/people/alden-jackson/) |
-
-| Richard Hoshino      | Teaching Professor     | Vancouver | Scheduling optimization, Operations research, Mathematics pedagogy | [Link](https://www.khoury.northeastern.edu/people/richard-hoshino/) |
-
-| Steve Holtzen      | Assistant Professor     | Boston | Artificial intelligence, Programming languages, Formal methods | [Link](https://www.khoury.northeastern.edu/people/steve-holtzen/) |
-
-| Megan Hofmann      | Assistant Professor     | Boston | Human-computer interaction, Personal health informatics, Accessibility, Digital fabrication | [Link](https://www.khoury.northeastern.edu/people/megan-hofmann/) |
-
-| Stratis Ioannidis      | Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment     | Boston | Big data, Machine learning, Privacy, Distributed systems | [Link](https://www.khoury.northeastern.edu/people/stratis-ioannidis/) |
-
-| Stephen Intille      | Professor     | Boston | Development and validation of innovative personal health informatics systems, Measuring and motivating behavioral changes through interactive, mobile sensing, The intersection of machine learning, behavioral theory, and behavioral measurement methods with computing technology | [Link](https://www.khoury.northeastern.edu/people/stephen-intille/) |
-
-| Ally Hoffman      | Part-Time Lecturer     | Online | Information security governance, risk, and compliance  | [Link](https://www.khoury.northeastern.edu/people/ally-hoffman/) |
-
-| Cliff Forlines      | Associate Research Professor     | Portland | Human-computer interaction, Data science, Data visualization, Virtual reality, Augmented reality, Extended reality | [Link](https://www.khoury.northeastern.edu/people/cliff-forlines/) |
-
-| Alexander Gamero-Garrido      | Postdoctoral Research Associate     | Boston | Internet measurement, Data localization, Internet policy, Cybersecurity & privacy, Computer networks | [Link](https://www.khoury.northeastern.edu/people/alexander-gamero-garrido/) |
-
-| Yun Raymond Fu      | Professor     | Boston | Machine learning, Computational intelligence, Big data mining, Computer vision, Pattern recognition, Cyber-physical systems | [Link](https://www.khoury.northeastern.edu/people/raymond-yun-fu/) |
-
-| Auroop Ganguly      | Distinguished Professor of Civil and Environmental Engineering, Khoury College Courtesy Appointment     | Boston | Water and climate science, Data science, Network science, Infrastructure resilience | [Link](https://www.khoury.northeastern.edu/people/auroop-ganguly/) |
-
-| Larry Finkelstein      | Professor Emeritus, Dean Emeritus     | Boston | Physical science, Health science, Digital arts and business | [Link](https://www.khoury.northeastern.edu/people/larry-finkelstein/) |
-
-| Bethany Edmunds      | Teaching Professor, Assistant Dean of Computing Programs - Vancouver, Interim Director of Computing Programs - Seattle     | Vancouver | Generalized reinforcement learning for mobile robotics | [Link](https://www.khoury.northeastern.edu/people/bethany-edmunds/) |
-
-| Ehsan Elhamifar      | Associate Professor, Director of the MS in Artificial Intelligence program, Affiliate Faculty with the Department of Electrical and Computer Engineering     | Boston | Artificial intelligence, Computer vision, Machine learning | [Link](https://www.khoury.northeastern.edu/people/ehsan-elhamifar/) |
-
-| Tina Eliassi-Rad      | Joseph E. Aoun Professor     | Boston | Data mining, Machine learning, Network science, Ethics and artificial intelligence | [Link](https://www.khoury.northeastern.edu/people/tina-eliassi-rad/) |
-
-| Deniz Erdogmus      | Professor, Electrical and Computer Engineering, Affiliated Faculty, Bioengineering, Khoury College Courtesy Appointment     | Boston | Machine learning, Signal and image analytics, Cyber-human systems | [Link](https://www.khoury.northeastern.edu/people/deniz-erdogmus/) |
-
-| Michael Everett      | Assistant Professor     | Boston | Robotics, Motion planning, Reinforcement learning, Neural network verification, Control theory | [Link](https://www.khoury.northeastern.edu/people/michael-everett/) |
-
-| Don Fallis      | Professor of Philosophy and Computer Sciences     | Boston | Epistemology, Philosophy of information, Philosophy of mathematics | [Link](https://www.khoury.northeastern.edu/people/don-fallis/) |
-
-| Sina Fazelpour      | Assistant Professor     | Boston | Data-driven and artificial intelligence technologies, Diversity in social groups and networks | [Link](https://www.khoury.northeastern.edu/people/sina-fazelpour/) |
-
-| Usama Fayyad      | Professor of the Practice, Executive Director Institute for EAI     | Portland | Data mining , Image processing , Machine intelligence , Machine learning , Inductive learning  | [Link](https://www.khoury.northeastern.edu/people/usama-fayyad/) |
-
-| Matthias Felleisen      | Trustee Professor     | Boston | Programming languages, Software engineering | [Link](https://www.khoury.northeastern.edu/people/matthias-felleisen/) |
-
-| Sam Ferguson      | Part-Time Lecturer     | Arlington | Algorithms and theory , Data science , Machine learning | [Link](https://www.khoury.northeastern.edu/people/sam-ferguson/) |
-
-| Eric Gerber      | Assistant Teaching Professor     | Boston | Sports analytics, Bayesian hierarchical models, Predictive modeling | [Link](https://www.khoury.northeastern.edu/people/eric-gerber/) |
-
-| Wolfgang Gatterbauer      | Associate Professor     | Boston | Data management, Information management, Developing scalable approaches to perform inference over uncertain and networked data | [Link](https://www.khoury.northeastern.edu/people/wolfgang-gatterbauer/) |
-
-| John Alexis Guerra Gomez      | Associate Teaching Professor     | Oakland, Silicon Valley | Visual analytics, Accessibility, Big Data, Human-computer interaction, Web development | [Link](https://www.khoury.northeastern.edu/people/john-alexis-guerra-gomez/) |
-
-| Matthew Goodwin      | Professor     | Boston | Ambulatory psychophysiology, Autism spectrum disorder, Digital signal processing, Machine learning, Personal health informatics | [Link](https://www.khoury.northeastern.edu/people/matthew-goodwin/) |
-
-| Arjun Guha      | Associate Professor     | Boston | Programming Languages | [Link](https://www.khoury.northeastern.edu/people/arjun-guha/) |
-
-| Philip Gust      | Visiting Clinical Instructor     | Silicon Valley | Human-computer interaction, Long-term preservation and access to born-digital content | [Link](https://www.khoury.northeastern.edu/people/philip-gust/) |
-
-| Brent Hailpern      | Part-Time Lecturer     | Silicon Valley | Programming languages, Software engineering | [Link](https://www.khoury.northeastern.edu/people/brent-hailpern/) |
-
-| Lama Hamandi      | Associate Teaching Professor     | Silicon Valley, Oakland | Systems & networking | [Link](https://www.khoury.northeastern.edu/people/lama-hamandi/) |
-
-| Paul Hand      | Associate Professor     | Boston | Theory and algorithms for machine learning and artificial intelligence | [Link](https://www.khoury.northeastern.edu/people/paul-hand/) |
-
-| Casper Harteveld      | Professor of Game Design, Khoury College Courtesy Appointment     | Boston | Decision-making, Game analytics, design, and user research, Learning, Sustainability, Systems Thinking | [Link](https://www.khoury.northeastern.edu/people/casper-harteveld/) |
-
-| Woodrow Hartzog      | Professor, Khoury College Courtesy Appointment     | Boston | Human-computer interaction, Privacy and surveillance, Robotics | [Link](https://www.khoury.northeastern.edu/people/woodrow-hartzog/) |
-
-| Benjamin Hescott      | Teaching Professor, Senior Associate Dean of Academic Programs and Student Experience     | Boston | Computational complexity, Approximation algorithms, Computational biology | [Link](https://www.khoury.northeastern.edu/people/benjamin-hescott/) |
-
-| Albert-László Barabási      | Robert Gray Dodge Professor of Network Science, University Distinguished Professor     | Boston | Network science and its applications, Properties of sub-cellular networks in understanding human disease, Control theory | [Link](https://www.khoury.northeastern.edu/people/albert-laszlo-barabasi/) |
-
-| Ghita Amor-Tijani      | Associate Teaching Professor, Assistant Director of Teaching Faculty - Boston     | Boston | Information retrieval, Cross-lingual information retrieval, Data mining, Databases | [Link](https://www.khoury.northeastern.edu/people/ghita-amor-tijani/) |
-
-| Kevin Amorin      | Part-Time Lecturer     | Boston | Network security | [Link](https://www.khoury.northeastern.edu/people/kevin-amorin/) |
-
-| Sara Arunagiri      | Part-Time Lecturer     | Online | Data science, Machine learning, Fault tolerance, I/O in high-performance computing systems | [Link](https://www.khoury.northeastern.edu/people/sara-arunagiri/) |
-
-| Kenneth Baclawski      | Associate Professor Emeritus     | Boston | Semantics of data, Web service specification and deployment, Big Data and NoSQL systems, High-performance ontology-based computing, Knowledge bases for biology and medicine, Ontologies for life sciences, situation awareness, and financial services | [Link](https://www.khoury.northeastern.edu/people/kenneth-baclawski/) |
-
-| Javed Aslam      | Chief of Artificial Intelligence, Professor     | Boston | Machine learning, Information retrieval, Applications of statistics and information theory | [Link](https://www.khoury.northeastern.edu/people/jay-javed-aslam/) |
-
-| Amin Assareh      | Part-Time Lecturer     | Boston | Knowledge graphs, Generative AI, Machine learning, Artificial intelligence, Natural language processing, Meta learning, Transfer learning, Semi-supervised learning, Weak supervision | [Link](https://www.khoury.northeastern.edu/people/amin-assareh/) |
-
-| Kathleen Aubrey      | Part-Time Lecturer     | Boston | Usability research, User experience, Qualitative research | [Link](https://www.khoury.northeastern.edu/people/kathleen-aubrey/) |
-
-| Ricardo Baeza-Yates      | Professor of the Practice     | Silicon Valley | Information retrieval, Web search and data mining, Data science and its associated algorithms | [Link](https://www.khoury.northeastern.edu/people/ricardo-baeza-yates/) |
-
-| Keith Bagley      | Associate Clinical Professor, Director – Align Boston     | Boston | Human Computer Interaction, Internet of Things, Broadening Participation for Underrepresented Groups | [Link](https://www.khoury.northeastern.edu/people/keith-bagley/) |
-
-| Ada Lerner      | Assistant Professor, Director of BS in Cybersecurity Program     | Boston | Human-computer interaction, Security and privacy | [Link](https://www.khoury.northeastern.edu/people/ada-lerner/) |
-
-| Jeongkyu Lee      | Teaching Professor     | Silicon Valley | Big data , Machine learning , Robotics , Computer vision , Database systems , Data visualization , Deep learning  | [Link](https://www.khoury.northeastern.edu/people/jeongkyu-lee/) |
-
-| Marie A. Maloney      | Senior Lecturer, Associate Program Director - Health Informatics     | Boston | Healthcare informatics, Optimizing the quality of patient care through the integration of payer and provider processes | [Link](https://www.khoury.northeastern.edu/people/marie-a-maloney/) |
-
-| Benjamin Lerner      | Associate Teaching Professor     | Boston | Programming languages, Computer science education | [Link](https://www.khoury.northeastern.edu/people/benjamin-lerner/) |
-
-| Karl Lieberherr      | Professor     | Boston | Modularity in software development, Test-driven development for relational queries using neural networks, Socio-technical systems for problem solving in STEM areas involving competition and collaboration | [Link](https://www.khoury.northeastern.edu/people/karl-lieberherr/) |
-
-| Wei-Kai Lin      | Postdoctoral Research Associate     | Boston | Security and privacy, Algorithms and theory, Cryptography | [Link](https://www.khoury.northeastern.edu/people/wei-kai-lin/) |
-
-| Xue &#8220;Shelly&#8221; Lin      | Associate Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment     | Boston | Adversarial machine learning, Deep learning acceleration and hardware implementation, Cyber-physical systems | [Link](https://www.khoury.northeastern.edu/people/xue-shelly-lin/) |
-
-| Blair MacIntyre      | Professor     | Boston | Human-computer interaction, Computer graphics, Augmented and virtual reality, Privacy | [Link](https://www.khoury.northeastern.edu/people/blair-macintyre/) |
-
-| Panagiotis (Pete) Manolios      | Professor     | Boston | Computer-aided modeling, verification, analysis, and synthesis of systems, Formal methods, Distributed computing, Programming languages, Software engineering, Aerospace | [Link](https://www.khoury.northeastern.edu/people/panagiotis-manolios/) |
-
-| Meica Magnani      | Assistant Teaching Professor     | Boston | Ethics of persuasive technologies and design, Autonomy | [Link](https://www.khoury.northeastern.edu/people/meica-magnani/) |
-
-| David Madigan      | Professor, Provost and Senior Vice President of Academic Affairs     | Boston | Statistics, Pharmacovigilance, Text mining, Monte Carlo methods, Probabilistic graphical models | [Link](https://www.khoury.northeastern.edu/people/david-madigan/) |
-
-| Craig Johnson      | Part-Time Lecturer     | Boston | Business application of machine learning and decision support in healthcare | [Link](https://www.khoury.northeastern.edu/people/craig-johnson/) |
-
-| Austin Jorgensen      | Part-Time Lecturer     | Seattle | Web development | [Link](https://www.khoury.northeastern.edu/people/austin-jorgensen/) |
-
-| David Kaeli      | Distinguished Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment     | Boston | Computer architecture, Heterogeneous computing, Performance analysis, Embedded systems, Security and information assurance, Back-end compilers, Profile-guided optimization, Hardware reliability and recovery, Image databases, Software engineering, Workload characterization, General purpose graphics processing units (GPGPU) | [Link](https://www.khoury.northeastern.edu/people/david-kaeli/) |
-
-| Lindsay Jamieson      | Teaching Professor     | Portland | K-12 computer science education, Algorithms & theory | [Link](https://www.khoury.northeastern.edu/people/lindsay-jamieson/) |
-
-| Shantanu Jain      | Associate Research Scientist     | Boston | Machine learning, Artificial intelligence, Data science, Statistics | [Link](https://www.khoury.northeastern.edu/people/jain-shantanu/) |
-
-| Alan Jamieson      | Teaching Professor, Director of Computing Programs - Roux Institute     | Portland | K-12 CS Integration, Recruitment and Retention of Historically Excluded Groups in CS, Algorithms and Theory | [Link](https://www.khoury.northeastern.edu/people/alan-jamieson/) |
-
-| Andrew Jelani      | Part-Time Lecturer     | Seattle | Information retrieval, Machine learning, Algorithms | [Link](https://www.khoury.northeastern.edu/people/andrew-jelani/) |
-
-| Huaizu Jiang      | Assistant Professor     | Boston | Computer vision, Computational photography, Machine learning | [Link](https://www.khoury.northeastern.edu/people/huaizu-jiang/) |
-
-| Holly Jimison      | Research Professor     | Boston | Personal health informatics, Pattern recognition, Decision support, Consumer health informatics | [Link](https://www.khoury.northeastern.edu/people/holly-jimison/) |
-
-| Rébecca Kleinberger      | Assistant Professor     | Boston | Animal-computer interaction , Technological enrichment for zoo animals , Human-computer interaction , Voice technology , Assistive technology , Music technology  | [Link](https://www.khoury.northeastern.edu/people/rebecca-kleinberger/) |
-
-| Justin Kennedy      | Part-Time Lecturer     | Online | Software engineering algorithms, Programming languages | [Link](https://www.khoury.northeastern.edu/people/justin-kennedy/) |
-
-| Ghanahshyam Kshirsagar      | Postdoctoral Research Associate     | Portland | Brain Computer Interface, Machine Learning | [Link](https://www.khoury.northeastern.edu/people/ghanahshyam-kshirsagar/) |
-
-| Engin Kirda      | Professor     | Boston | Systems, software, and network security, Web security, Binary analysis, Malware detection | [Link](https://www.khoury.northeastern.edu/people/engin-kirda/) |
-
-| David Lazer      | Distinguished Professor     | Boston | Computational social science, Network science, Collective cognition, Political networks and deliberative democracy, Social media and social influence in networks, Predictive modeling | [Link](https://www.khoury.northeastern.edu/people/david-lazer/) |
-
-| Wallace Lages      | Assistant Professor     | Boston | user experience of augmented and virtual reality applications | [Link](https://www.khoury.northeastern.edu/people/wallace-lages/) |
-
-| Eli Barzilay      | Part-Time Lecturer     | Boston | Programming languages, Computer music, Applied logic | [Link](https://www.khoury.northeastern.edu/people/eli-barzilay/) |
-
-| David Bau      | Assistant Professor     | Boston | Machine learning, Computer vision, Artificial intelligence, Natural language processing, Human-computer interaction | [Link](https://www.khoury.northeastern.edu/people/david-bau/) |
-
-| Jonathan Bell      | Associate Professor     | Boston | Software Engineering, Program Analysis, Automated approaches to help developers write better software | [Link](https://www.khoury.northeastern.edu/people/jonathan-bell/) |
-
-| Kylie Ariel Bemis      | Assistant Teaching Professor     | Boston | Statistical computing environments, Methods for complex data | [Link](https://www.khoury.northeastern.edu/people/kylie-ariel-bemis/) |
-
-| Enrico Bertini      | Associate Professor     | Boston | Visualization, Machine learning | [Link](https://www.khoury.northeastern.edu/people/enrico-bertini/) |
-
-| Anurag Bhardwaj      | Part-Time Lecturer     | Silicon Valley | Machine learning, Computer vision, Algorithms | [Link](https://www.khoury.northeastern.edu/people/anurag-bhardwaj/) |
-
-| Rasika Bhalerao      | Assistant Teaching Professor     | Silicon Valley, Oakland | Ethical computing, Natural language processing and information retrieval, Security and privacy | [Link](https://www.khoury.northeastern.edu/people/rasika-bhalerao/) |
-
-| Timothy W. Bickmore      | Professor     | Boston | Human-computer interaction, Dialogue systems, Intelligent virtual agents, Avatars, Personal health informatics, Human-robot interaction | [Link](https://www.khoury.northeastern.edu/people/timothy-bickmore/) |
-
-| Omid Mirzaei      | Postdoctoral Research Associate     | Boston | Artificial intelligence, Machine learning, Security and privacy, Systems and networks | [Link](https://www.khoury.northeastern.edu/people/omid-mirzaei/) |
-
-| Stacy C. Marsella      | Professor     | Boston | Human behavior modeling, particularly health applications | [Link](https://www.khoury.northeastern.edu/people/stacy-c-marsella/) |
-
-| Bruce Maxwell      | Teaching Professor, Assistant Director Computing Programs - Seattle     | Seattle | Computer vision, Machine learning, Robotics, Data science | [Link](https://www.khoury.northeastern.edu/people/bruce-maxwell/) |
-
-| Sakib Miazi      | Assistant Teaching Professor     | Boston | Usable security and privacy, Computing education, Human–computer interaction, Security and privacy | [Link](https://www.khoury.northeastern.edu/people/sakib-miazi/) |
-
-| Mark Miller      | Part-Time Lecturer - Align Program     | Silicon Valley, Oakland | Computer science education | [Link](https://www.khoury.northeastern.edu/people/mark-miller/) |
-
-| Ennio Mingolla      | Professor, Department of Communication Sciences and Disorders, Khoury College Courtesy Appointment     | Boston | Development and empirical testing of neural network models of visual perception, Segmentation, grouping, and contour formation processes of early and middle vision in primates, Transitioning neural network models of visual perception to technological applications | [Link](https://www.khoury.northeastern.edu/people/ennio-mingolla/) |
-
-| Mardiros Merdinian      | Part-Time Lecturer     | Boston | Information security, Information assurance | [Link](https://www.khoury.northeastern.edu/people/mardiros-merdinoglu/) |
-
-| Kenneth Church      | Professor of the Practice     | Silicon Valley | Natural language processing and information retrieval, Artificial intelligence, Machine learning | [Link](https://www.khoury.northeastern.edu/people/kenneth-church/) |
-
-| David Choffnes      | Associate Professor, Executive Director - Cybersecurity and Privacy Institute     | Boston | Distributed systems, Networking, Privacy and security, Measuring deployed Internet-scale systems (including mobile and IoT), Designing solutions to address problems with reliability, efficiency, and security | [Link](https://www.khoury.northeastern.edu/people/david-choffnes/) |
-
-| Agnes H. Chan      | Professor Emeritus     | Boston | Applied cryptography, Secure communication | [Link](https://www.khoury.northeastern.edu/people/agnes-chan/) |
-
-| William D. Clinger      | Associate Professor Emeritus     | Boston | Functional and higher-order programming languages, Connecting mathematically sophisticated theories of syntax and semantics to economically important details of computer hardware and software | [Link](https://www.khoury.northeastern.edu/people/william-d-clinger/) |
-
-| Yvonne Coady      | Visiting Professor     | Vancouver | Scalable system infrastructures, Aspect-oriented software development, Distributed virtualization | [Link](https://www.khoury.northeastern.edu/people/yvonne-coady/) |
-
-| Aditya Mishra      | Associate Teaching Professor     | Seattle | Green computing, Smart grids, Distributed systems and networking, Sustainability | [Link](https://www.khoury.northeastern.edu/people/aditya-mishra/) |
-
-| Alan Mislove      | Professor, Senior Associate Dean for Academic Affairs     | Boston | Network measurement, Networking, Privacy and security issues associated with online social networks | [Link](https://www.khoury.northeastern.edu/people/alan-mislove/) |
-
-| Varun Mishra      | Assistant Professor     | Boston | Ubiquitous computing for mental and behavioral health, mHealth sensing and intervention, Digital phenotyping, Personal health informatics | [Link](https://www.khoury.northeastern.edu/people/varun-mishra/) |
-
-| Smruthi Mukund      | Part-Time Lecturer     | Silicon Valley | Data science , Machine learning , Natural language processing | [Link](https://www.khoury.northeastern.edu/people/smruthi-mukund/) |
-
-| Tony Mullen      | Teaching Professor     | Seattle | Statistical natural language processing, Computer-assisted language learning, Computer science pedagogy | [Link](https://www.khoury.northeastern.edu/people/tony-mullen/) |
-
-| Aanchan Mohan      | Assistant Teaching Professor     | Vancouver | Machine learning, Natural language processing, Speech recognition | [Link](https://www.khoury.northeastern.edu/people/aanchan-mohan/) |
-
-| Seth Cooper      | Associate Professor     | Boston | Scientific discovery games, Serious games, Crowdsourcing games, Citizen science, Novel interfaces for problem-solving, Automated tools for assisting game design and development, Computational structural biochemistry | [Link](https://www.khoury.northeastern.edu/people/seth-cooper/) |
-
-| Ran Cohen      | Visiting Scientist     | Boston | Cryptography | [Link](https://www.khoury.northeastern.edu/people/ran-cohen/) |
-
-| Gene Cooperman      | Professor     | Boston | Fault tolerance and transparent checkpointing, Supercomputing, parallel computing, cloud computing, Formal verification, Cybersecurity | [Link](https://www.khoury.northeastern.edu/people/gene-cooperman/) |
-
-| Kyle K. Courtney      | Part-Time Lecturer     | Boston | Information assurance, Cyberlaw, Internet law, Intellectual property | [Link](https://www.khoury.northeastern.edu/people/kyle-k-courtney/) |
-
-| Bob De Schutter      | Associate Professor     | Boston | Game design and development, Independent video games, Serious games, Player motivation, Aging | [Link](https://www.khoury.northeastern.edu/people/bob-de-schutter/) |
-
-| Ryan Culpepper      | Postdoctoral Research Associate     |  | Programming languages | [Link](https://www.khoury.northeastern.edu/people/ryan-culpepper-2/) |
-
-| Jonathan Mwaura      | Associate Teaching Professor     | Portland | Evolutionary computation, Multimodal optimization, Robotics | [Link](https://www.khoury.northeastern.edu/people/jonathan-mwaura/) |
-
-| Elizabeth Mynatt      | Dean of Khoury College of Computer Sciences     | Boston | Health Informatics, Human Computer Interaction, Ubiquitous Computing | [Link](https://www.khoury.northeastern.edu/people/elizabeth-mynatt/) |
-
-| Arasu Narayan      | Part-Time Lecturer     | Seattle | Natural language processing | [Link](https://www.khoury.northeastern.edu/people/arasu-narayan/) |
-
-| Mario Nascimento      | Professor of the Practice, Director of Pacific Northwest Research     | Vancouver | Spatiotemporal databases | [Link](https://www.khoury.northeastern.edu/people/mario-nascimento/) |
-
-| Kaan Onarlioglu      | Part-Time Lecturer     | Boston | Operating systems security, Human-computer interaction, Security and privacy, Systems and networking | [Link](https://www.khoury.northeastern.edu/people/kaan-onarlioglu/) |
-
-| Alina Oprea      | Professor     | Boston | Security analytics, Cloud security, Network security, Applied cryptography | [Link](https://www.khoury.northeastern.edu/people/alina-oprea/) |
-
-| Huy Lê Nguyen      | Associate Professor     | Boston | Algorithmic techniques for massive data sets, Optimization, Machine learning | [Link](https://www.khoury.northeastern.edu/people/huy-le-nguyen/) |
-
-| Guevara Noubir      | Professor, Executive Director of Cybersecurity Programs     | Boston | Theory and practice of privacy and security, Robustness of networked systems | [Link](https://www.khoury.northeastern.edu/people/guevara-noubir/) |
-
-| Cristina Nita-Rotaru      | Professor     | Boston | Distributed systems and network security, Insider-resilient systems, Analytics for security and fault-tolerance, Automated testing and verification | [Link](https://www.khoury.northeastern.edu/people/cristina-nita-rotaru/) |
-
-
+ |
+| [Mohammad Toutiaee](https://www.khoury.northeastern.edu/people/mohammad-toutiaee/) | Assistant Teaching Professor | Silicon Valley | Data science, Machine learning, Artificial intelligence |
+| [Stavros Tripakis](https://www.khoury.northeastern.edu/people/stavros-tripakis/) | Associate Professor | Boston | Foundations of software and system design, Computer-aided verification and synthesis, Cyber-physical systems |
+| [Viney Ugave](https://www.khoury.northeastern.edu/people/viney-ugave/) | Part-Time Lecturer | Arlington | Software engineering, Mobile computing |
+| [Catherine Turner](https://www.khoury.northeastern.edu/people/catherine-turner/) | Part-Time Lecturer | Boston | Nursing/nursing informatics, Healthcare informatics, Electronic health records |
+| [Scott Valcourt](https://www.khoury.northeastern.edu/people/scott-valcourt/) | Associate Teaching Professor | Portland | Systems and networking, Software engineering, Programming languages, Network science, Science of learning, Team science |
+| [Jonathan Ullman](https://www.khoury.northeastern.edu/people/jonathan-ullman/) | Associate Professor | Boston | Privacy, Machine learning and statistics, Cryptography, Algorithms |
+| [Oscar Veliz](https://www.khoury.northeastern.edu/people/oscar-veliz/) | Assistant Teaching Professor | Seattle | Computer science education , Game theory , Numerical analysis |
+| [Ferdinand Vesely](https://www.khoury.northeastern.edu/people/ferdinand-vesely/) | Assistant Teaching Professor | Boston | Semantics of programming languages, Functional programming, Program transformation, Interactive theorem provers, Compiler design & implementation and code generation, Operational equivalence of programs, bisimulation & congruence formats |
+| [Alessandro Vespignani](https://www.khoury.northeastern.edu/people/alessandrovespignani/) | Sternberg Family Distinguished Professor of Physics | Boston | Characterization and modeling of complex networks, Modeling the spatial spread of epidemics, Resilience of complex networks, Collective behavior of techno-social systems |
+| [John Wilder](https://www.khoury.northeastern.edu/people/john-wilder/) | Part-Time Lecturer | Vancouver | Human and computer vision , Cognitive neuroscience , Neural networks  |
+| [Christo Wilson](https://www.khoury.northeastern.edu/people/christo-wilson/) | Professor, Associate Dean of Undergraduate Programs | Boston | Algorithm auditing, specifically using controlled experiments to understand whether black-box algorithmic systems are unfair or discriminatory, Understanding online tracking and developing techniques to improve online privacy, Measuring and improving public key infrastructures like SSL/TLS and DNSSEC |
+| [Daniel Wichs](https://www.khoury.northeastern.edu/people/daniel-wichs/) | Professor | Boston | Modern cryptography, Information security |
+| [Caglar Yildirim](https://www.khoury.northeastern.edu/people/caglar-yildirim/) | Associate Teaching Professor | Boston | Human-computer interaction, Applied machine learning, Data visualization, Games |
+| [David Smith](https://www.khoury.northeastern.edu/people/david-smith/) | Associate Professor | Boston | Efficient inference for machine learning models with complex latent structure, Modeling natural language structures, such as morphology, syntax, and semantics, Modeling the mutations in texts as they propagate through social networks and in language across space and time, Interactive information retrieval and machine learning for expert users |
+| [Jay Spitulnik](https://www.khoury.northeastern.edu/people/jay-spitulnik/) | Associate Teaching Professor, Director of Health Informatics Graduate Program | Boston | Project management, Organizational behavior, Statistics |
+| [Lili Su](https://www.khoury.northeastern.edu/people/lili-su/) | Assistant Professor of Electrical and Computer Engineering, Khoury College Courtesy Appointment |  | Distributed machine learning, Security and fault-tolerance, Neural computation, Bio-inspired distributed algorithms, Blockchains, Autonomous cars, Algorithm design |
+| [Bethany Edmunds](https://www.khoury.northeastern.edu/people/bethany-edmunds/) | Teaching Professor, Assistant Dean of Computing Programs - Vancouver, Interim Director of Computing Programs - Seattle | Vancouver | Generalized reinforcement learning for mobile robotics |
+| [Ehsan Elhamifar](https://www.khoury.northeastern.edu/people/ehsan-elhamifar/) | Associate Professor, Director of the MS in Artificial Intelligence program, Affiliate Faculty with the Department of Electrical and Computer Engineering | Boston | Artificial intelligence, Computer vision, Machine learning |
+| [Deniz Erdogmus](https://www.khoury.northeastern.edu/people/deniz-erdogmus/) | Professor, Electrical and Computer Engineering, Affiliated Faculty, Bioengineering, Khoury College Courtesy Appointment | Boston | Machine learning, Signal and image analytics, Cyber-human systems |
+| [Tina Eliassi-Rad](https://www.khoury.northeastern.edu/people/tina-eliassi-rad/) | Joseph E. Aoun Professor | Boston | Data mining, Machine learning, Network science, Ethics and artificial intelligence |
+| [Michael Everett](https://www.khoury.northeastern.edu/people/michael-everett/) | Assistant Professor | Boston | Robotics, Motion planning, Reinforcement learning, Neural network verification, Control theory |
+| [Don Fallis](https://www.khoury.northeastern.edu/people/don-fallis/) | Professor of Philosophy and Computer Sciences | Boston | Epistemology, Philosophy of information, Philosophy of mathematics |
+| [Usama Fayyad](https://www.khoury.northeastern.edu/people/usama-fayyad/) | Professor of the Practice, Executive Director Institute for EAI | Portland | Data mining , Image processing , Machine intelligence , Machine learning , Inductive learning  |
+| [Sina Fazelpour](https://www.khoury.northeastern.edu/people/sina-fazelpour/) | Assistant Professor | Boston | Data-driven and artificial intelligence technologies, Diversity in social groups and networks |
+| [Matthias Felleisen](https://www.khoury.northeastern.edu/people/matthias-felleisen/) | Trustee Professor | Boston | Programming languages, Software engineering |
+| [Nate Derbinsky](https://www.khoury.northeastern.edu/people/nate-derbinsky/) | Teaching Professor, Associate Dean of the Global Campus, Associate Dean of Teaching Faculty | Boston | Artificial intelligence, Machine learning |
+| [Peter Desnoyers](https://www.khoury.northeastern.edu/people/peter-desnoyers/) | Associate Professor | Boston | The integration of emerging storage technologies such as flash and SMR disk into existing software infrastructures, Algorithms for Flash storage, Shingled Magnetic Recording (SMR) disk drives, Teaching operating systems concepts |
+| [Jennifer Dy](https://www.khoury.northeastern.edu/people/jennifer-dy/) | Professor | Boston | Machine learning, Data mining, Statistical pattern recognition, Computer vision, Image processing |
+| [Kathleen Durant](https://www.khoury.northeastern.edu/people/kathleen-durant/) | Assistant Teaching Professor | Boston | Social network analysis and visualization, Database design, Data science, Personal health informatics |
+| [Cody Dunne](https://www.khoury.northeastern.edu/people/cody-dunne/) | Associate Professor | Boston | Information visualization, Visual analytics, Graph and network visualization, Data workflows, Data and analytic provenance, Human-computer interaction (HCI), Personal health informatics |
+| [Ran Cohen](https://www.khoury.northeastern.edu/people/ran-cohen/) | Visiting Scientist | Boston | Cryptography |
+| [Seth Cooper](https://www.khoury.northeastern.edu/people/seth-cooper/) | Associate Professor | Boston | Scientific discovery games, Serious games, Crowdsourcing games, Citizen science, Novel interfaces for problem-solving, Automated tools for assisting game design and development, Computational structural biochemistry |
+| [Kyle K. Courtney](https://www.khoury.northeastern.edu/people/kyle-k-courtney/) | Part-Time Lecturer | Boston | Information assurance, Cyberlaw, Internet law, Intellectual property |
+| [Gene Cooperman](https://www.khoury.northeastern.edu/people/gene-cooperman/) | Professor | Boston | Fault tolerance and transparent checkpointing, Supercomputing, parallel computing, cloud computing, Formal verification, Cybersecurity |
+| [Ryan Culpepper](https://www.khoury.northeastern.edu/people/ryan-culpepper-2/) | Postdoctoral Research Associate |  | Programming languages |
+| [Bob De Schutter](https://www.khoury.northeastern.edu/people/bob-de-schutter/) | Associate Professor | Boston | Game design and development, Independent video games, Serious games, Player motivation, Aging |
+
+
+*Last updated: November 22, 2024*

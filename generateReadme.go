@@ -2,51 +2,70 @@ package main
 
 import (
 	"fmt"
-	"log"
 	"os"
 	"strings"
-	"text/template"
+	"time"
 )
 
 // Function to generate a README.md file with a faculty table
 func generateReadme(faculties []Faculty) error {
-	// Define the table structure for the markdown format
-	const readmeTemplate = `
-# Faculty Directory
-
-This is the list of faculties with their details.
-
-| Name           | Position Title    | Locations | Research Interests | Link                               |
-|----------------|-------------------|-----------|---------------------|------------------------------------|
-{{range .}}
-| {{.Name}}      | {{.PosTitles}}     | {{join .Locations ", "}} | {{join .ResearchInterests ", "}} | [Link]({{.Link}}) |
-{{end}}
-
-`
-
-	// Create a new file or open for writing
+	// Open file for writing
 	file, err := os.Create("README.md")
 	if err != nil {
-		return fmt.Errorf("unable to create README.md: %v", err)
+		return fmt.Errorf("error creating file: %v", err)
 	}
 	defer file.Close()
 
-	// Prepare a template for the table
-	tmpl, err := template.New("readme").Funcs(template.FuncMap{
-		"join": func(slice []string, sep string) string {
-			return strings.Join(slice, sep)
-		},
-	}).Parse(readmeTemplate)
+	// Write header
+	_, err = file.WriteString("# Faculty Directory\n\n")
 	if err != nil {
-		return fmt.Errorf("unable to parse template: %v", err)
+		return fmt.Errorf("error writing header: %v", err)
 	}
 
-	// Write the content to the file using the template
-	err = tmpl.Execute(file, faculties)
+	// Write table header
+	tableHeader := "| Name | Position | Location | Research Interests |\n" +
+		"|------|-----------|-----------|-------------------|\n"
+	_, err = file.WriteString(tableHeader)
 	if err != nil {
-		return fmt.Errorf("unable to execute template: %v", err)
+		return fmt.Errorf("error writing table header: %v", err)
 	}
 
-	log.Println("README.md generated successfully.")
+	// Write table rows
+	for _, faculty := range faculties {
+		// Create markdown link for name
+		nameLink := fmt.Sprintf("[%s](%s)", faculty.Name, faculty.Link)
+
+		// Format locations as comma-separated string
+		locations := strings.Join(faculty.Locations, ", ")
+
+		// Format research interests as comma-separated string
+		interests := strings.Join(faculty.ResearchInterests, ", ")
+
+		// Replace any pipe characters in text fields to avoid breaking the table
+		nameLink = strings.ReplaceAll(nameLink, "|", "\\|")
+		positions := strings.ReplaceAll(faculty.PosTitles, "|", "\\|")
+		locations = strings.ReplaceAll(locations, "|", "\\|")
+		interests = strings.ReplaceAll(interests, "|", "\\|")
+
+		// Create table row
+		row := fmt.Sprintf("| %s | %s | %s | %s |\n",
+			nameLink,
+			positions,
+			locations,
+			interests)
+
+		_, err = file.WriteString(row)
+		if err != nil {
+			return fmt.Errorf("error writing row: %v", err)
+		}
+	}
+
+	// Add footer with generation timestamp
+	footer := fmt.Sprintf("\n\n*Last updated: %s*\n", time.Now().Format("January 2, 2006"))
+	_, err = file.WriteString(footer)
+	if err != nil {
+		return fmt.Errorf("error writing footer: %v", err)
+	}
+
 	return nil
 }
