@@ -1,7 +1,7 @@
 This project scrapes faculty information from
 	 the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/about/people/) at Northeastern University.
 	  It collects details including the faculty's name, title, location, research interests, and a link to their profile. 
-	  The scraped data is then saved in a CSV file for easy access.
+	  You can also download the [CSV file](https://github.com/WillaLee/facultyScraper/blob/main/faculties.csv) for easy access and analysis.
       
 # Faculty Directory
 
