@@ -29,12 +29,14 @@ func fetchResearchInterests(url string) ([]string, error) {
 
 	// Select the "Research Interests" section and extract the list items
 	var interests []string
-	doc.Find("div.copy").Each(func(i int, s *goquery.Selection) {
-		if s.Find("h2").Text() == "Research Interests" {
-			s.Find("ul li").Each(func(j int, li *goquery.Selection) {
-				interests = append(interests, li.Text())
-			})
-		}
+	doc.Find(`div.copy.paragraph[data-swiftype-index="true"][data-swiftype-name="resultDescription"][data-swiftype-type="text"]`).Each(func(i int, s *goquery.Selection) {
+		s.Find("h2").Each(func(i int, h *goquery.Selection) {
+			if h.Text() == "Research Interests" || h.Text() == "Research Areas" {
+				h.Next().Find("li").Each(func(j int, li *goquery.Selection) {
+					interests = append(interests, li.Text())
+				})
+			}
+		})
 	})
 
 	return interests, nil
