@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strings"
 	"text/template"
 )
 
@@ -33,7 +34,7 @@ This is the list of faculties with their details.
 	// Prepare a template for the table
 	tmpl, err := template.New("readme").Funcs(template.FuncMap{
 		"join": func(slice []string, sep string) string {
-			return fmt.Sprint(slice)
+			return strings.Join(slice, sep)
 		},
 	}).Parse(readmeTemplate)
 	if err != nil {
