@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"log"
+	"sort"
 	"sync"
 
 	"bytes"
@@ -17,6 +18,24 @@ type Faculty struct {
 	PosTitles         string   `json:"pos_titles"`
 	Locations         []string `json:"locations"`
 	ResearchInterests []string
+}
+
+// ByName implements sort.Interface for sorting Faculty slices by Name.
+type ByName []Faculty
+
+// Len returns the number of elements in the collection.
+func (a ByName) Len() int {
+	return len(a)
+}
+
+// Less reports whether the element with index i should sort before the element with index j.
+func (a ByName) Less(i, j int) bool {
+	return a[i].Name < a[j].Name
+}
+
+// Swap swaps the elements with indexes i and j.
+func (a ByName) Swap(i, j int) {
+	a[i], a[j] = a[j], a[i]
 }
 
 func fetchAllFacultyPageAJAX(page int) ([]Faculty, error) {
@@ -79,7 +98,7 @@ func fetchAllFaculties() []Faculty {
 		mu            sync.Mutex
 		wg            sync.WaitGroup
 		pageLimit     = 8 // Limit for concurrent goroutines per page
-		interestLimit = 8 // Limit for concurrent goroutines per faculty
+		interestLimit = 5 // Limit for concurrent goroutines per faculty
 	)
 
 	// Channel to limit concurrency for fetching faculty pages
@@ -129,6 +148,9 @@ func fetchAllFaculties() []Faculty {
 	}
 
 	wg.Wait()
+
+	log.Print("start sort")
+	sort.Sort(ByName(allFaculties))
 	return allFaculties
 }
 
