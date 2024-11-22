@@ -16,8 +16,8 @@ func generateReadme(faculties []Faculty) error {
 	}
 	defer file.Close()
 
-	description := `This Go project scrapes faculty information from
-	 the [Khoury College of Computer Sciences website](https://www.khoury.northeastern.edu/about/people/) at Northeastern University.
+	description := `This project scrapes faculty information from
+	 the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/about/people/) at Northeastern University.
 	  It collects details including the faculty's name, title, location, research interests, and a link to their profile. 
 	  The scraped data is then saved in a CSV file for easy access.` + "\n\n"
 
